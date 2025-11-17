@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: "/portfolio_project/",   // 👈 your repo name here
+  base: "/myportfolio/",   // 👈 your repo name here
 });
